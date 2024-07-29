@@ -3,7 +3,7 @@
 
 ## Installation 
 
-### Tomcat Installation
+# Tomcat Installation
 
 1. Download and install [Apache Tomcat](http://tomcat.apache.org/)
 
